@@ -3,6 +3,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_marcosmarinho98/)[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marcos.marinho.16547/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-franco-marinho-031b55187/)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosmarinho19998@gmail.com)
 
 ![marcosfrancomarinho GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosfrancomarinho&show_icons=true&theme=merko&locale=pt-br)
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosfrancomarinho&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ## Tecnologia do meu dia a dia
 <div style="display:inline-block">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" align="center">
@@ -14,3 +19,10 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" align="center">
 <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="sequelize" align="center">
 </div>
+
+## Principais projetos
+- [Lista de Tarefas](https://github.com/marcosfrancomarinho/tarefas.git)
+- [Metódos](https://github.com/marcosfrancomarinho/methods.git)
+- [Booktore](https://github.com/marcosfrancomarinho/book-store.git)
+- [Paint](https://github.com/marcosfrancomarinho/paint.git)
+
