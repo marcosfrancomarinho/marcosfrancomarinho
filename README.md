@@ -5,7 +5,7 @@
 ![marcosfrancomarinho GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosfrancomarinho&show_icons=true&theme=merko&locale=pt-br)
 
 <a href="https://github.com/marcosfrancomarinho">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosfrancomarinho&layout=compact&langs_count=8&card_width=321" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosfrancomarinho&layout=compact&langs_count=8&card_width=325" />
 </a>
 
 ## Tecnologia do meu dia a dia
