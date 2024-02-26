@@ -4,10 +4,6 @@
 
 ![marcosfrancomarinho GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosfrancomarinho&show_icons=true&theme=merko&locale=pt-br)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosfrancomarinho&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 ## Tecnologia do meu dia a dia
 <div style="display:inline-block">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" align="center">
@@ -19,6 +15,10 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" align="center">
 <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="sequelize" align="center">
 </div>
+
+<a href="https://github.com/marcosfrancomarinho">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosfrancomarinho&layout=compact&langs_count=8&card_width=321" />
+</a>
 
 ## Principais projetos
 - [Lista de Tarefas](https://github.com/marcosfrancomarinho/tarefas.git)
