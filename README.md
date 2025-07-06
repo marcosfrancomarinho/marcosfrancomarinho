@@ -22,8 +22,6 @@
 </div>
 
 ## Principais projetos
-- [Lista de Tarefas](https://github.com/marcosfrancomarinho/tarefas.git)
-- [Metódos](https://github.com/marcosfrancomarinho/methods.git)
+- [Kit-dev](https://github.com/marcosfrancomarinho/kit-dev.git)
 - [Booktore](https://github.com/marcosfrancomarinho/book-store.git)
-- [Paint](https://github.com/marcosfrancomarinho/paint.git)
-
+- [Cursos-Livres](https://github.com/marcosfrancomarinho/aluno-projeto.git)
