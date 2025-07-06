@@ -18,7 +18,9 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" align="center">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" align="center">
 <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="sequelize" align="center">
-<img src="https://img.shields.io/badge/typescript-323330?style=for-the-badge&logo=typescript&logoColor=blue" alt="typescript" align="center">
+<img src="https://img.shields.io/badge/go-323330?style=for-the-badge&logo=go&logoColor=blue" alt="go" align="center">
+<img src="https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php&logoColor=blue" alt="php" align="center">
+<img src="https://img.shields.io/badge/vue-323330?style=for-the-badge&logo=vue&logoColor=black" alt="vue" align="center">
 </div>
 
 ## Principais projetos
