@@ -5,6 +5,10 @@ Desenvolvedor focado em aplicações web e desktop, com ênfase em arquitetura l
 </p>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Arquitetura+Limpa+%26+Boas+Práticas;Aplicações+Web+e+Desktop;Sempre+aprendendo+algo+novo">
+</p>
+
+<p align="center">
 <a href="https://www.instagram.com/_marcosmarinho98/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -17,6 +21,18 @@ Desenvolvedor focado em aplicações web e desktop, com ênfase em arquitetura l
 <a href="mailto:marcosmarinho19998@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=marcosfrancomarinho&style=for-the-badge&color=38B2AC">
+</p>
+
+---
+
+## 📊 Estatísticas de Desenvolvimento
+
+<p align="center">
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosfrancomarinho&theme=github-dark"/>
 </p>
 
 ---
@@ -70,16 +86,24 @@ Desenvolvedor focado em aplicações web e desktop, com ênfase em arquitetura l
 ## 🚀 Projetos em Destaque
 
 ### 🧰 Kit Dev — JavaScript
-Biblioteca de utilitários para acelerar o desenvolvimento e padronizar soluções comuns, com foco em organização, reuso e produtividade.
+Biblioteca de utilitários para acelerar o desenvolvimento e padronizar soluções comuns, com foco em organização, reuso e produtividade.  
 🔗 https://github.com/marcosfrancomarinho/kit-dev
 
 ### 🔄 Conversor — Python Desktop App
-Aplicação com interface gráfica para conversão de imagens e PDF, distribuída como executável e otimizada para uso offline.
+Aplicação com interface gráfica para conversão de imagens e PDF, distribuída como executável e otimizada para uso offline.  
 🔗 https://github.com/marcosfrancomarinho/conversor
 
 ### 🔗 Encurtador de URL — Go
-Serviço backend para encurtamento de links com foco em performance, simplicidade e escalabilidade.
+Serviço backend para encurtamento de links com foco em performance, simplicidade e escalabilidade.  
 🔗 https://github.com/marcosfrancomarinho/encutador-de-url
+
+---
+
+## 🐍 Atividade no GitHub
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/marcosfrancomarinho/marcosfrancomarinho/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
