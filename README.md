@@ -98,15 +98,6 @@ Serviço backend para encurtamento de links com foco em performance, simplicidad
 🔗 https://github.com/marcosfrancomarinho/encutador-de-url
 
 ---
-
-## 🐍 Atividade no GitHub
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/marcosfrancomarinho/marcosfrancomarinho/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 <p align="center">
 💡 Sempre explorando novas tecnologias e boas práticas de engenharia de software.
 </p>
