@@ -2,12 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_marcosmarinho98/)[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marcos.marinho.16547/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-franco-marinho-031b55187/)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosmarinho19998@gmail.com)
 
-![marcosfrancomarinho GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosfrancomarinho&show_icons=true&theme=merko&locale=pt-br)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosfrancomarinho)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/marcosfrancomarinho">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosfrancomarinho&layout=compact&langs_count=8&card_width=325" />
-</a>
-
 ## Tecnologia do meu dia a dia
 <div style="display:inline-block">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" align="center">
@@ -24,6 +18,6 @@
 </div>
 
 ## Principais projetos
-- [Kit-dev](https://github.com/marcosfrancomarinho/kit-dev.git)
-- [Booktore](https://github.com/marcosfrancomarinho/book-store.git)
-- [Cursos-Livres](https://github.com/marcosfrancomarinho/aluno-projeto.git)
+- [Kit-dev - Javascript](https://github.com/marcosfrancomarinho/kit-dev.git)
+- [Conversor - Python](https://github.com/marcosfrancomarinho/conversor.git)
+- [Encurtador url - Golang](https://github.com/marcosfrancomarinho/encutador-de-url.git)
