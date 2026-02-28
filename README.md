@@ -69,7 +69,7 @@ Desenvolvedor focado em aplicações web e desktop, com ênfase em arquitetura l
 
 ## 🚀 Projetos em Destaque
 
-### 🧰 Kit Dev — TypeScript
+### 🧰 Kit Dev — JavaScript
 Biblioteca de utilitários para acelerar o desenvolvimento e padronizar soluções comuns, com foco em organização, reuso e produtividade.
 🔗 https://github.com/marcosfrancomarinho/kit-dev
 
