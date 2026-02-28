@@ -1,65 +1,88 @@
-## <em>Olá, Eu sou o Marcos Marinho <em>🖐️
+<h1 align="center">Olá, eu sou o Marcos Marinho 👋</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_marcosmarinho98/)[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marcos.marinho.16547/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-franco-marinho-031b55187/)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosmarinho19998@gmail.com)
+<p align="center">
+Desenvolvedor focado em aplicações web e desktop, com ênfase em arquitetura limpa, performance e boas práticas de engenharia de software.
+</p>
 
-## Tecnologia do meu dia a dia
+<p align="center">
+<a href="https://www.instagram.com/_marcosmarinho98/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.facebook.com/marcos.marinho.16547/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:marcosmarinho19998@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
+---
+
+## 🧰 Stack Tecnológica
 
 ### 🧠 Linguagens
 <div style="display:inline-block">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" align="center">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" align="center">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-5" align="center">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-### ⚡ Frameworks & Libs
+### ⚡ Frameworks & Bibliotecas
 <div style="display:inline-block">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node js" align="center">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" align="center">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma" align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" align="center">
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" align="center">
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" align="center">
-<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="electron" align="center">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white">
 </div>
 
 ### 🗄️ Banco de Dados
 <div style="display:inline-block">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" align="center">
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" align="center">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
 ### 🛠️ Ferramentas
 <div style="display:inline-block">
-<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="composer" align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" align="center">
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-### 🏗️ Arquitetura & Princípios
+### 🏗️ Arquitetura & Boas Práticas
 <div style="display:inline-block">
-<img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge" alt="mvc" align="center">
-<img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge" alt="clean architecture" align="center">
-<img src="https://img.shields.io/badge/SOLID%20Principles-000000?style=for-the-badge" alt="solid principles" align="center">
+<img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/SOLID%20Principles-000000?style=for-the-badge">
 </div>
 
-## 🚀 Principais Projetos
+---
 
-### 🧰 Kit Dev — JavaScript
-Coleção de utilitários e ferramentas para acelerar o desenvolvimento no dia a dia em typescript, com foco em produtividade e padronização de código.
+## 🚀 Projetos em Destaque
+
+### 🧰 Kit Dev — TypeScript
+Biblioteca de utilitários para acelerar o desenvolvimento e padronizar soluções comuns, com foco em organização, reuso e produtividade.
 🔗 https://github.com/marcosfrancomarinho/kit-dev
 
----
-
-### 🔄 Conversor — Python
-Aplicação desktop para conversão de imagens e PDF com interface gráfica, empacotada como executável e pensada para uso offline.
+### 🔄 Conversor — Python Desktop App
+Aplicação com interface gráfica para conversão de imagens e PDF, distribuída como executável e otimizada para uso offline.
 🔗 https://github.com/marcosfrancomarinho/conversor
 
+### 🔗 Encurtador de URL — Go
+Serviço backend para encurtamento de links com foco em performance, simplicidade e escalabilidade.
+🔗 https://github.com/marcosfrancomarinho/encutador-de-url
+
 ---
 
-### 🔗 Encurtador de URL — Go
-Serviço backend para encurtamento de links com arquitetura simples, performática e fácil de escalar.
-🔗 https://github.com/marcosfrancomarinho/encutador-de-url
+<p align="center">
+💡 Sempre explorando novas tecnologias e boas práticas de engenharia de software.
+</p>
