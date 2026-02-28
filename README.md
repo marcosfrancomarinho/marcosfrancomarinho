@@ -46,7 +46,20 @@
 <img src="https://img.shields.io/badge/SOLID%20Principles-000000?style=for-the-badge" alt="solid principles" align="center">
 </div>
 
-## Principais projetos
-- [Kit-dev - Javascript](https://github.com/marcosfrancomarinho/kit-dev.git)
-- [Conversor - Python](https://github.com/marcosfrancomarinho/conversor.git)
-- [Encurtador url - Golang](https://github.com/marcosfrancomarinho/encutador-de-url.git)
+## 🚀 Principais Projetos
+
+### 🧰 Kit Dev — JavaScript
+Coleção de utilitários e ferramentas para acelerar o desenvolvimento no dia a dia em typescript, com foco em produtividade e padronização de código.
+🔗 https://github.com/marcosfrancomarinho/kit-dev
+
+---
+
+### 🔄 Conversor — Python
+Aplicação desktop para conversão de imagens e PDF com interface gráfica, empacotada como executável e pensada para uso offline.
+🔗 https://github.com/marcosfrancomarinho/conversor
+
+---
+
+### 🔗 Encurtador de URL — Go
+Serviço backend para encurtamento de links com arquitetura simples, performática e fácil de escalar.
+🔗 https://github.com/marcosfrancomarinho/encutador-de-url
