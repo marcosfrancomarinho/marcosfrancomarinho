@@ -97,6 +97,9 @@ Aplicação com interface gráfica para conversão de imagens e PDF, distribuíd
 Serviço backend para encurtamento de links com foco em performance, simplicidade e escalabilidade.  
 🔗 https://github.com/marcosfrancomarinho/encutador-de-url
 
+### 🔐 API de Autenticação e Pedidos — Java + Spring Boot
+API REST desenvolvida com Spring Boot, Spring Security, JWT, JPA/Hibernate e SQLite, aplicando Clean Architecture para autenticação, gerenciamento de produtos e pedidos.  
+🔗 https://github.com/marcosfrancomarinho/authenticacao
 ---
 <p align="center">
 💡 Sempre explorando novas tecnologias e boas práticas de engenharia de software.
