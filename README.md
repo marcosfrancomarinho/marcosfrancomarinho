@@ -1,12 +1,13 @@
 <h1 align="center">Olá, eu sou o Marcos Marinho 👋</h1>
 
 <p align="center">
-Desenvolvedor Full Stack focado em Backend, Arquitetura de Software e boas práticas.
+Full Stack Developer focado em Backend, Arquitetura de Software e Engenharia de Sistemas.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=38B2AC&center=true&vCenter=true&width=950&lines=Clean+Architecture;Domain-Driven+Design+(DDD);System+Design;Software+Modeling;Design+Patterns;SOLID;Backend+Development;Scalable+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=1200&color=38B2AC&center=true&vCenter=true&width=1000&height=70&lines=Clean+Architecture;Domain-Driven+Design+(DDD);System+Design;Software+Modeling;Design+Patterns;SOLID;Backend+Development"/>
 </p>
+
 
 <p align="center">
 
@@ -51,7 +52,7 @@ Desenvolvedor Full Stack focado em Backend, Arquitetura de Software e boas prát
 # 💻 Tecnologias
 
 
-### Linguagens
+## Linguagens
 
 <p align="center">
 
@@ -60,7 +61,7 @@ Desenvolvedor Full Stack focado em Backend, Arquitetura de Software e boas prát
 </p>
 
 
-### Frameworks
+## Frameworks & Bibliotecas
 
 <p align="center">
 
@@ -69,7 +70,7 @@ Desenvolvedor Full Stack focado em Backend, Arquitetura de Software e boas prát
 </p>
 
 
-### Banco de Dados
+## Banco de Dados
 
 <p align="center">
 
@@ -87,7 +88,7 @@ Desenvolvedor Full Stack focado em Backend, Arquitetura de Software e boas prát
 
 **Java • Spring Boot • JWT • Clean Architecture**
 
-API REST com autenticação, gerenciamento de usuários, produtos e pedidos aplicando separação de responsabilidades e boas práticas.
+API REST com autenticação, gerenciamento de usuários, produtos e pedidos utilizando princípios de arquitetura limpa.
 
 🔗 https://github.com/marcosfrancomarinho/authenticacao
 
@@ -98,7 +99,7 @@ API REST com autenticação, gerenciamento de usuários, produtos e pedidos apli
 
 **JavaScript**
 
-Biblioteca de utilidades para acelerar desenvolvimento e reutilização de código.
+Biblioteca de utilidades para desenvolvimento e reutilização de código.
 
 🔗 https://github.com/marcosfrancomarinho/kit-dev
 
@@ -120,7 +121,7 @@ Aplicação desktop para conversão de imagens e PDF.
 
 **Go**
 
-Serviço backend focado em simplicidade e performance.
+Serviço backend focado em simplicidade, performance e escalabilidade.
 
 🔗 https://github.com/marcosfrancomarinho/encutador-de-url
 
@@ -130,7 +131,7 @@ Serviço backend focado em simplicidade e performance.
 # 📚 Atualmente estudando
 
 - Clean Architecture
-- DDD
+- Domain-Driven Design (DDD)
 - System Design
 - Design Patterns
 - Spring Boot
@@ -141,6 +142,6 @@ Serviço backend focado em simplicidade e performance.
 
 <p align="center">
 
-⭐ Sempre buscando evoluir como desenvolvedor e construir software de qualidade.
+⭐ Construindo software com foco em arquitetura, qualidade e evolução contínua.
 
 </p>
