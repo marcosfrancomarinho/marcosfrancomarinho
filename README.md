@@ -1,108 +1,257 @@
 <h1 align="center">Olá, eu sou o Marcos Marinho 👋</h1>
 
 <p align="center">
-Desenvolvedor focado em aplicações web e desktop, com ênfase em arquitetura limpa, performance e boas práticas de engenharia de software.
+Desenvolvedor Full Stack com foco em <strong>Backend</strong> e apaixonado por
+<strong>Arquitetura de Software</strong>,
+<strong>Domain-Driven Design (DDD)</strong>,
+<strong>System Design</strong> e
+<strong>Boas Práticas de Engenharia de Software</strong>.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=38B2AC&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Arquitetura+Limpa+%26+Boas+Práticas;Aplicações+Web+e+Desktop;Sempre+aprendendo+algo+novo">
+Construindo aplicações escaláveis, desacopladas e preparadas para evoluir através de
+<strong>Clean Architecture</strong>, <strong>SOLID</strong>, <strong>Design Patterns</strong>
+e <strong>Modelagem de Sistemas</strong>.
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/_marcosmarinho98/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=900&lines=Clean+Architecture;Domain-Driven+Design+(DDD);System+Design;Software+Modeling;Design+Patterns;SOLID+Principles;Backend+Development;Scalable+Applications"/>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/marcosfrancomarinho">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/marcos.marinho.16547/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+
+<a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+
 <a href="mailto:marcosmarinho19998@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=marcosfrancomarinho&style=for-the-badge&color=38B2AC">
+<img src="https://komarev.com/ghpvc/?username=marcosfrancomarinho&style=for-the-badge&color=38B2AC"/>
 </p>
+
 
 ---
 
-## 📊 Estatísticas de Desenvolvimento
+# 📊 GitHub Analytics
+
 
 <p align="center">
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosfrancomarinho&theme=github-dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=marcosfrancomarinho&theme=github-dark&hide_border=true"/>
+
 </p>
 
----
-
-## 🧰 Stack Tecnológica
-
-### 🧠 Linguagens
-<div style="display:inline-block">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white">
-</div>
-
-### ⚡ Frameworks & Bibliotecas
-<div style="display:inline-block">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white">
-</div>
-
-### 🗄️ Banco de Dados
-<div style="display:inline-block">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-</div>
-
-### 🛠️ Ferramentas
-<div style="display:inline-block">
-<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
-
-### 🏗️ Arquitetura & Boas Práticas
-<div style="display:inline-block">
-<img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge">
-<img src="https://img.shields.io/badge/SOLID%20Principles-000000?style=for-the-badge">
-</div>
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🏛️ Arquitetura & Engenharia de Software
 
-### 🔐 API de Autenticação e Pedidos — Java + Spring Boot
-API REST com autenticação JWT, gerenciamento de produtos e pedidos, desenvolvida com Spring Boot, JPA/Hibernate e Clean Architecture.  
+
+```text
+╔══════════════════════════════════════╗
+║          🏛️ ARQUITETURA              ║
+╠══════════════════════════════════════╣
+║ • Clean Architecture                 ║
+║ • Domain-Driven Design (DDD)         ║
+║ • Hexagonal Architecture             ║
+║ • Ports & Adapters                   ║
+║ • Layered Architecture               ║
+╚══════════════════════════════════════╝
+```
+
+
+```text
+╔══════════════════════════════════════╗
+║          🧩 ENGENHARIA               ║
+╠══════════════════════════════════════╣
+║ • SOLID                              ║
+║ • Clean Code                         ║
+║ • Design Patterns                    ║
+║ • Dependency Injection               ║
+║ • Refactoring                        ║
+╚══════════════════════════════════════╝
+```
+
+
+```text
+╔══════════════════════════════════════╗
+║          🏗️ DESIGN DE SISTEMAS       ║
+╠══════════════════════════════════════╣
+║ • System Design                      ║
+║ • Software Modeling                  ║
+║ • UML                                ║
+║ • API Design                         ║
+║ • Escalabilidade                     ║
+╚══════════════════════════════════════╝
+```
+
+
+---
+
+# 💻 Stack Tecnológica
+
+
+## Linguagens
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,typescript,javascript,go,python,php,html,css"/>
+
+</p>
+
+
+## Frameworks & Bibliotecas
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,react,vue,tailwind,electron,prisma"/>
+
+</p>
+
+
+## Banco de Dados
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
+
+</p>
+
+
+## Ferramentas
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+
+</p>
+
+
+---
+
+# 🚀 Projetos em Destaque
+
+
+## 🔐 API de Autenticação e Pedidos
+
+**Java • Spring Boot • JWT • JPA • Clean Architecture**
+
+API REST desenvolvida utilizando princípios de arquitetura limpa, separação de responsabilidades e boas práticas de desenvolvimento.
+
+Conceitos aplicados:
+
+- Clean Architecture
+- Domain Modeling
+- Dependency Injection
+- SOLID
+- REST API
+
+
 🔗 https://github.com/marcosfrancomarinho/authenticacao
 
-### 🧰 Kit Dev — JavaScript
-Biblioteca de utilitários para acelerar o desenvolvimento e padronizar soluções comuns, com foco em organização, reuso e produtividade.  
-🔗 https://github.com/marcosfrancomarinho/kit-dev
-
-### 🔄 Conversor — Python Desktop App
-Aplicação com interface gráfica para conversão de imagens e PDF, distribuída como executável e otimizada para uso offline.  
-🔗 https://github.com/marcosfrancomarinho/conversor
-
-### 🔗 Encurtador de URL — Go
-Serviço backend para encurtamento de links com foco em performance, simplicidade e escalabilidade.  
-🔗 https://github.com/marcosfrancomarinho/encutador-de-url
 
 ---
+
+## 🧰 Kit Dev
+
+**JavaScript**
+
+Biblioteca de utilidades para facilitar desenvolvimento, aumentar produtividade e incentivar reutilização de código.
+
+
+🔗 https://github.com/marcosfrancomarinho/kit-dev
+
+
+---
+
+## 🖥️ Conversor Desktop
+
+**Python**
+
+Aplicação desktop para conversão de imagens e arquivos PDF com foco em simplicidade e experiência offline.
+
+
+🔗 https://github.com/marcosfrancomarinho/conversor
+
+
+---
+
+## 🔗 Encurtador de URL
+
+**Go**
+
+Serviço backend desenvolvido pensando em performance, simplicidade e escalabilidade.
+
+
+🔗 https://github.com/marcosfrancomarinho/encutador-de-url
+
+
+---
+
+# 📚 Atualmente estudando
+
+
+```text
+🏛️ Clean Architecture
+
+📦 Domain-Driven Design
+
+🏗️ System Design
+
+📐 Software Modeling
+
+🧩 Design Patterns
+
+⚙️ SOLID
+
+🧪 Testes Automatizados
+
+🚀 Arquiteturas Escaláveis
+
+☁️ Sistemas Distribuídos
+```
+
+
+---
+
+# 💡 Filosofia
+
+
+```text
+"Um bom software não é apenas aquele que funciona.
+
+É aquele que consegue evoluir."
+
+
+✔ Código limpo
+
+✔ Baixo acoplamento
+
+✔ Alta coesão
+
+✔ Separação de responsabilidades
+
+✔ Modelagem bem definida
+
+✔ Arquitetura preparada para mudanças
+```
+
+
+---
+
 <p align="center">
-💡 Sempre explorando novas tecnologias e boas práticas de engenharia de software.
+
+⭐ Obrigado pela visita!
+
+Sempre buscando evoluir como desenvolvedor e construir software de qualidade.
+
 </p>
