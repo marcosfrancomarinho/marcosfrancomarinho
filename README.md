@@ -1,21 +1,12 @@
 <h1 align="center">Olá, eu sou o Marcos Marinho 👋</h1>
 
 <p align="center">
-Desenvolvedor Full Stack focado em <strong>Backend</strong>, 
-<strong>Arquitetura de Software</strong> e 
-<strong>Modelagem de Sistemas</strong>.
+Desenvolvedor Full Stack focado em Backend, Arquitetura de Software e boas práticas.
 </p>
 
 <p align="center">
-Interesse em <strong>Clean Architecture</strong>, 
-<strong>Domain-Driven Design (DDD)</strong>,
-<strong>System Design</strong> e construção de aplicações escaláveis.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=38B2AC&center=true&vCenter=true&width=950&lines=Clean+Architecture;Domain-Driven+Design+(DDD);System+Design;Software+Modeling;Design+Patterns;SOLID;Backend+Development;Scalable+Applications"/>
 </p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Clean+Architecture;Domain-Driven+Design;System+Design;Software+Modeling;Backend+Development"/>
-</p>
-
 
 <p align="center">
 
