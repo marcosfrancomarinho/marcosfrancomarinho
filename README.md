@@ -7,12 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38B2AC&center=true&vCenter=true&width=700&lines=Clean+Architecture;Domain-Driven+Design+(DDD);System+Design;SOLID+%26+Design+Patterns"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/marcosfrancomarinho"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:marcosmarinho19998@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://www.instagram.com/_marcosmarinho98/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-</p>
+<p align="center"><a href="https://github.com/marcosfrancomarinho"><img src="https://skillicons.dev/icons?i=github"/></a>&nbsp;<a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;<a href="mailto:marcosmarinho19998@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;<a href="https://www.instagram.com/_marcosmarinho98/"><img src="https://skillicons.dev/icons?i=instagram"/></a></p>
 
 ---
 
@@ -66,7 +61,7 @@ Aplicação desktop para conversão de imagens e PDF.
 <br>
 Serviço backend focado em desempenho e escalabilidade.
 <br><br>
-<img src="https://skillicons.dev/icons?i=go&theme=dark" height="28"/>
+<img src="https://skillicons.dev/icons?i=go,vue&theme=dark" height="28"/>
 
 </td>
 </tr>
