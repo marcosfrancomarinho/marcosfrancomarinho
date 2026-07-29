@@ -32,7 +32,7 @@
 API REST com autenticação, usuários, produtos e pedidos, construída em Clean Architecture.
 <br><br>
 <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="28"/>
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
+
 
 </td>
 <td width="50%">
