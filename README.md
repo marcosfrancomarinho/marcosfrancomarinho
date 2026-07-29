@@ -1,149 +1,83 @@
 <h1 align="center">Olá, eu sou o Marcos Marinho 👋</h1>
-
 <p align="center">
-  <strong>Full Stack Developer</strong><br>
-  Focado em Backend, Arquitetura de Software e Engenharia de Sistemas.
+  <strong>Full Stack Developer</strong> — Backend, Arquitetura de Software e Engenharia de Sistemas
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1200&color=38B2AC&center=true&vCenter=true&width=900&lines=Clean+Architecture;Domain-Driven+Design+(DDD);System+Design;Software+Modeling;Design+Patterns;SOLID;Backend+Development"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38B2AC&center=true&vCenter=true&width=700&lines=Clean+Architecture;Domain-Driven+Design+(DDD);System+Design;SOLID+%26+Design+Patterns"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/marcosfrancomarinho">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:marcosmarinho19998@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.instagram.com/_marcosmarinho98/">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
+<a href="https://github.com/marcosfrancomarinho"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:marcosmarinho19998@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://www.instagram.com/_marcosmarinho98/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
 ---
 
-# 🏛️ Arquitetura & Engenharia
+### 💻 Stack
 
-<div align="center">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,typescript,javascript,go,python,php,spring,nestjs,nodejs,react,tailwind,prisma,mysql,postgres,sqlite,docker,git,linux&perline=9"/>
+</p>
 
-| 🏛️ Arquitetura | ⚙️ Engenharia |
-|:--------------:|:-------------:|
-| ✅ Clean Architecture | ✅ System Design |
-| ✅ Domain-Driven Design | ✅ Software Modeling |
-| ✅ SOLID | ✅ Arquiteturas Escaláveis |
-| ✅ Design Patterns | ✅ Clean Code |
-
-</div>
+**Foco:** Clean Architecture · DDD · System Design · SOLID · Design Patterns
 
 ---
 
-# 💻 Tecnologias
+### 🚀 Projetos
 
-## Linguagens
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,typescript,javascript,go,python,php&perline=6"/>
-</p>
+**🔐 [API de Autenticação e Pedidos](https://github.com/marcosfrancomarinho/authenticacao)**
+<br>
+API REST com autenticação, usuários, produtos e pedidos, construída em Clean Architecture.
+<br><br>
+<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="28"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
 
-## Frameworks & Ferramentas
+</td>
+<td width="50%">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,react,tailwind,prisma,electron&perline=7"/>
-</p>
-
-## Banco de Dados
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=3"/>
-</p>
-
-## Ferramentas
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,maven,postman&perline=8"/>
-</p>
-
----
-
-# 🚀 Projetos
-
-## 🔐 API de Autenticação e Pedidos
-
-**Java • Spring Boot • JWT • Clean Architecture**
-
-API REST para autenticação, gerenciamento de usuários, produtos e pedidos utilizando princípios da Clean Architecture.
-
-🔗 https://github.com/marcosfrancomarinho/authenticacao
-
----
-
-## 🧰 Kit Dev
-
-**JavaScript**
-
+**🧰 [Kit Dev](https://github.com/marcosfrancomarinho/kit-dev)**
+<br>
 Biblioteca de utilidades para acelerar o desenvolvimento e reutilização de código.
+<br><br>
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="28"/>
 
-🔗 https://github.com/marcosfrancomarinho/kit-dev
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
-
-## 🖥️ Conversor Desktop
-
-**Python**
-
+**🖥️ [Conversor Desktop](https://github.com/marcosfrancomarinho/conversor)**
+<br>
 Aplicação desktop para conversão de imagens e PDF.
+<br><br>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="28"/>
 
-🔗 https://github.com/marcosfrancomarinho/conversor
+</td>
+<td width="50%">
 
----
-
-## 🔗 Encurtador de URL
-
-**Go**
-
+**🔗 [Encurtador de URL](https://github.com/marcosfrancomarinho/encutador-de-url)**
+<br>
 Serviço backend focado em desempenho e escalabilidade.
+<br><br>
+<img src="https://skillicons.dev/icons?i=go&theme=dark" height="28"/>
 
-🔗 https://github.com/marcosfrancomarinho/encutador-de-url
-
----
-
-# 📖 Atualmente estudando
-
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- System Design
-- Design Patterns
-- Arquitetura de Microsserviços
-- Spring Boot
-- Engenharia de Software
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
+### 📖 Estudando agora
 
-### 📫 Contato
-
-<a href="mailto:marcosmarinho19998@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="https://github.com/marcosfrancomarinho">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+Clean Architecture · DDD · System Design · Arquitetura de Microsserviços · Engenharia de Software
 
 ---
 
-<p align="center">
-⭐ Construindo software com foco em arquitetura, qualidade, escalabilidade e evolução contínua.
-</p>
+<p align="center">⭐ Software com foco em arquitetura, qualidade e escalabilidade.</p>
