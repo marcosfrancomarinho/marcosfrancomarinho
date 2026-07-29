@@ -7,16 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38B2AC&center=true&vCenter=true&width=700&lines=Clean+Architecture;Domain-Driven+Design+(DDD);System+Design;SOLID+%26+Design+Patterns"/>
 </p>
 
-<div align="center">
-<table>
-<tr>
-<td align="center"><a href="https://github.com/marcosfrancomarinho"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a></td>
-<td align="center"><a href="mailto:marcosmarinho19998@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/></a></td>
-<td align="center"><a href="https://www.instagram.com/_marcosmarinho98/"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/></a></td>
-</tr>
-</table>
-</div>
+<p align="center">
+<a href="https://github.com/marcosfrancomarinho"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a> <a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a> <a href="mailto:marcosmarinho19998@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/></a> <a href="https://www.instagram.com/_marcosmarinho98/"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/></a>
+</p>
 
 ---
 
