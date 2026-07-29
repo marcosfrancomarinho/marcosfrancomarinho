@@ -30,55 +30,52 @@
 
 ### 🚀 Projetos
 
-<table>
-<tr>
-<td width="50%">
+<br>
 
 **🔐 [API de Autenticação e Pedidos](https://github.com/marcosfrancomarinho/authenticacao)**
-<br>
+
 API REST com autenticação, usuários, produtos e pedidos, construída em Clean Architecture.
-<br><br>
+
 <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="28"/>
 
-
-</td>
-<td width="50%">
+<br>
 
 **🧰 [Kit Dev](https://github.com/marcosfrancomarinho/kit-dev)**
-<br>
+
 Biblioteca de utilidades para acelerar o desenvolvimento e reutilização de código.
-<br><br>
+
 <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="28"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<br>
 
 **🖥️ [Conversor Desktop](https://github.com/marcosfrancomarinho/conversor)**
-<br>
+
 Aplicação desktop para conversão de imagens e PDF.
-<br><br>
+
 <img src="https://skillicons.dev/icons?i=python&theme=dark" height="28"/>
 
-</td>
-<td width="50%">
+<br>
 
 **🔗 [Encurtador de URL](https://github.com/marcosfrancomarinho/encutador-de-url)**
-<br>
-Serviço backend focado em desempenho e escalabilidade.
-<br><br>
-<img src="https://skillicons.dev/icons?i=go,vue&theme=dark" height="28"/>
 
-</td>
-</tr>
-</table>
+Serviço backend focado em desempenho e escalabilidade.
+
+<img src="https://skillicons.dev/icons?i=go,vue&theme=dark" height="28"/>
 
 ---
 
-### 📖 Estudando agora
+### 🏛️ Arquitetura & Práticas
 
-Clean Architecture · DDD · System Design · Arquitetura de Microsserviços · Engenharia de Software
+Aplico esses conceitos no dia a dia, não só na teoria:
+
+| Prática | Como aplico |
+|---|---|
+| **Clean Architecture** | Separação clara entre camadas (domínio, aplicação, infraestrutura), mantendo as regras de negócio independentes de framework |
+| **Domain-Driven Design (DDD)** | Bounded Contexts, Aggregates, Domain Services e Domain Events para modelar domínios complexos |
+| **Arquitetura Hexagonal** | Ports & Adapters para isolar o núcleo da aplicação de detalhes externos (banco, API, UI) |
+| **Design Patterns** | Factory, Strategy, Repository, Adapter e outros, aplicados onde realmente resolvem um problema |
+| **SOLID** | Base para código desacoplado, testável e fácil de evoluir |
+| **System Design** | Modelagem de sistemas escaláveis, pensando em consistência, performance e manutenção |
 
 ---
 
