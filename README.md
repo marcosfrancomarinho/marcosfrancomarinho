@@ -1,117 +1,120 @@
-# Olá, eu sou o Marcos Marinho 👋
+<h1 align="center">Olá, eu sou o Marcos Marinho 👋</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong><br>
-  Focado em Backend, Arquitetura de Software e Engenharia de Sistemas.
+  Backend • Software Architecture • Systems Engineering
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=38B2AC&center=true&vCenter=true&width=900&lines=Clean+Architecture;Domain-Driven+Design+(DDD);System+Design;Software+Modeling;Design+Patterns;SOLID;Backend+Development"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1200&color=38B2AC&center=true&vCenter=true&width=900&lines=Clean+Architecture;Domain-Driven+Design;System+Design;Design+Patterns;SOLID;Backend+Development"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
+  <a href="https://github.com/marcosfrancomarinho">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-franco-marinho-031b55187)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_marcosmarinho98/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosmarinho19998@gmail.com)
+  <a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:marcosmarinho19998@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/_marcosmarinho98/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🏛️ Arquitetura
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,react,ts,go,python&perline=8"/>
+</p>
+
+<p align="center">
+
+**Clean Architecture • DDD • SOLID • Design Patterns • System Design • Software Modeling**
 
 </p>
 
 ---
 
-# 🏛️ Arquitetura & Engenharia
+# 💻 Stack
+
+### Linguagens
 
 <p align="center">
-
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge)
-![DDD](https://img.shields.io/badge/DDD-2563EB?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-DC2626?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-7C3AED?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-059669?style=for-the-badge)
-![Software Modeling](https://img.shields.io/badge/Software_Modeling-F59E0B?style=for-the-badge)
-
+<img src="https://skillicons.dev/icons?i=java,typescript,javascript,go,python,php"/>
 </p>
 
----
-
-# 💻 Tecnologias
-
-## Linguagens
+### Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,go,python,php" />
+<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,react,tailwind,prisma,electron"/>
 </p>
 
-## Frameworks & Ferramentas
+### Banco de Dados
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,react,tailwind,electron,prisma" />
-</p>
-
-## Banco de Dados
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
 </p>
 
 ---
 
 # 🚀 Projetos
 
-## 🔐 API de Autenticação e Pedidos
+### 🔐 API de Autenticação
 
-**Java • Spring Boot • JWT • Clean Architecture**
+Java • Spring Boot • JWT • Clean Architecture
 
-API REST com autenticação, gerenciamento de usuários, produtos e pedidos seguindo princípios da Clean Architecture.
-
-🔗 https://github.com/marcosfrancomarinho/authenticacao
+https://github.com/marcosfrancomarinho/authenticacao
 
 ---
 
-## 🧰 Kit Dev
+### 🧰 Kit Dev
 
-**JavaScript**
+Biblioteca JavaScript para acelerar o desenvolvimento.
 
-Biblioteca de utilidades para acelerar o desenvolvimento e reutilização de código.
-
-🔗 https://github.com/marcosfrancomarinho/kit-dev
+https://github.com/marcosfrancomarinho/kit-dev
 
 ---
 
-## 🖥️ Conversor Desktop
+### 🖥️ Conversor Desktop
 
-**Python**
+Python
 
-Aplicação desktop para conversão de imagens e PDF.
-
-🔗 https://github.com/marcosfrancomarinho/conversor
+https://github.com/marcosfrancomarinho/conversor
 
 ---
 
-## 🔗 Encurtador de URL
+### 🔗 Encurtador de URL
 
-**Go**
+Go
 
-Serviço backend focado em simplicidade, desempenho e escalabilidade.
-
-🔗 https://github.com/marcosfrancomarinho/encutador-de-url
+https://github.com/marcosfrancomarinho/encutador-de-url
 
 ---
 
 # 📚 Atualmente estudando
 
 - Clean Architecture
-- Domain-Driven Design (DDD)
+- DDD
 - System Design
 - Design Patterns
 - Spring Boot
-- Arquiteturas escaláveis
+- Arquiteturas Escaláveis
 
 ---
 
 <p align="center">
+
 ⭐ Construindo software com foco em arquitetura, qualidade e evolução contínua.
+
 </p>
