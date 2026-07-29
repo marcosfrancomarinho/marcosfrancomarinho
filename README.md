@@ -23,7 +23,7 @@
 ### 💻 Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,typescript,javascript,go,python,php,spring,nestjs,nodejs,react,tailwind,prisma,mysql,postgres,sqlite,docker,git,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=java,typescript,javascript,go,python,php,spring,nestjs,nodejs,react,tailwind,prisma,mysql,postgres,sqlite,git,linux&perline=9"/>
 </p>
 
 **Foco:** Clean Architecture · DDD · System Design · SOLID · Design Patterns
