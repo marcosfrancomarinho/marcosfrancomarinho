@@ -1,84 +1,69 @@
 <h1 align="center">Olá, eu sou o Marcos Marinho 👋</h1>
+
 <p align="center">
-  <strong>Full Stack Developer</strong> — Backend, Arquitetura de Software e Engenharia de Sistemas
+  <strong>Full Stack Developer</strong><br/>
+  Backend · Arquitetura de Software · Engenharia de Sistemas
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38B2AC&center=true&vCenter=true&width=700&lines=Clean+Architecture;Domain-Driven+Design+(DDD);System+Design;SOLID+%26+Design+Patterns"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38B2AC&center=true&vCenter=true&width=650&lines=Clean+Architecture;Domain-Driven+Design+(DDD);System+Design;SOLID+%26+Design+Patterns" alt="Especialidades" />
 </p>
-
-<div align="center">
-<table>
-<tr>
-<td align="center"><a href="https://github.com/marcosfrancomarinho"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/></a></td>
-<td align="center"><a href="mailto:marcosmarinho19998@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/></a></td>
-<td align="center"><a href="https://www.instagram.com/_marcosmarinho98/"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40"/></a></td>
-</tr>
-</table>
-</div>
-
----
-
-### 💻 Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,typescript,javascript,go,python,php,spring,nestjs,nodejs,react,tailwind,prisma,mysql,postgres,sqlite,git,linux&perline=9"/>
+  <a href="https://github.com/marcosfrancomarinho"><img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187"><img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn" /></a>
+  <a href="mailto:marcosmarinho19998@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="E-mail" /></a>
+  <a href="https://www.instagram.com/_marcosmarinho98/"><img src="https://skillicons.dev/icons?i=instagram" width="36" alt="Instagram" /></a>
 </p>
 
-**Foco:** Clean Architecture · DDD · System Design · SOLID · Design Patterns
+---
+
+## 💻 Stack principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,nestjs,go,react,tailwind,mysql,postgres,sqlite,prisma,git,linux&perline=7" alt="Tecnologias" />
+</p>
+
+<p align="center">
+  <strong>Foco:</strong> backend, arquitetura, APIs, modelagem de domínio e sistemas escaláveis.
+</p>
 
 ---
 
-### 🚀 Projetos
+## 🚀 Projetos em destaque
 
-<br>
+### 🔐 [API de Autenticação e Pedidos](https://github.com/marcosfrancomarinho/authenticacao)
+API REST em Java e Spring, estruturada com Clean Architecture, autenticação JWT e separação clara entre domínio, aplicação e infraestrutura.
 
-**🔐 [API de Autenticação e Pedidos](https://github.com/marcosfrancomarinho/authenticacao)**
+<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="26" alt="Java e Spring" />
 
-API REST com autenticação, usuários, produtos e pedidos, construída em Clean Architecture.
+### 🧰 [Kit Dev](https://github.com/marcosfrancomarinho/kit-dev)
+Conjunto de utilidades para acelerar a criação de projetos e reduzir código repetitivo no desenvolvimento.
 
-<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="28"/> <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="26" alt="JavaScript" />
 
-<br>
+### 🖥️ [Conversor Desktop](https://github.com/marcosfrancomarinho/conversor)
+Aplicação desktop em Python para conversão e manipulação de imagens e arquivos PDF.
 
-**🧰 [Kit Dev](https://github.com/marcosfrancomarinho/kit-dev)**
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="26" alt="Python" />
 
-Biblioteca de utilidades para acelerar o desenvolvimento e reutilização de código.
+### 🔗 [Encurtador de URL](https://github.com/marcosfrancomarinho/encutador-de-url)
+Serviço de encurtamento de URLs desenvolvido com Go e Vue, com foco em simplicidade, desempenho e separação de responsabilidades.
 
-<img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="28"/>
-
-<br>
-
-**🖥️ [Conversor Desktop](https://github.com/marcosfrancomarinho/conversor)**
-
-Aplicação desktop para conversão de imagens e PDF.
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="28"/>
-
-<br>
-
-**🔗 [Encurtador de URL](https://github.com/marcosfrancomarinho/encutador-de-url)**
-
-Serviço backend focado em desempenho e escalabilidade.
-
-<img src="https://skillicons.dev/icons?i=go,vue&theme=dark" height="28"/>
+<img src="https://skillicons.dev/icons?i=go,vue&theme=dark" height="26" alt="Go e Vue" />
 
 ---
 
-### 🏛️ Arquitetura & Práticas
+## 🏛️ Arquitetura & Engenharia
 
-Aplico esses conceitos no dia a dia, não só na teoria:
-
-| Prática | Como aplico |
-|---|---|
-| **Clean Architecture** | Separação clara entre camadas (domínio, aplicação, infraestrutura), mantendo as regras de negócio independentes de framework |
-| **Domain-Driven Design (DDD)** | Bounded Contexts, Aggregates, Domain Services e Domain Events para modelar domínios complexos |
-| **Arquitetura Hexagonal** | Ports & Adapters para isolar o núcleo da aplicação de detalhes externos (banco, API, UI) |
-| **Design Patterns** | Factory, Strategy, Repository, Adapter e outros, aplicados onde realmente resolvem um problema |
-| **SOLID** | Base para código desacoplado, testável e fácil de evoluir |
-| **System Design** | Modelagem de sistemas escaláveis, pensando em consistência, performance e manutenção |
+- **Clean Architecture:** regras de negócio independentes de frameworks e infraestrutura.
+- **DDD:** entidades, value objects, aggregates e serviços de domínio para modelar regras complexas.
+- **Arquitetura Hexagonal:** ports & adapters para desacoplar integrações externas.
+- **SOLID e Design Patterns:** aplicados para melhorar manutenção, testes e evolução do código.
+- **System Design:** decisões orientadas a escalabilidade, desempenho e consistência.
 
 ---
 
-<p align="center">⭐ Software com foco em arquitetura, qualidade e escalabilidade.</p>
+<p align="center">
+  <strong>Software com foco em arquitetura, qualidade e evolução sustentável.</strong>
+</p>
