@@ -67,11 +67,40 @@ Serviço de encurtamento de URLs desenvolvido com Go e Vue, com foco em simplici
 
 ## 🏛️ Arquitetura & Engenharia
 
-- **Clean Architecture:** regras de negócio independentes de frameworks e infraestrutura.
-- **DDD:** entidades, value objects, aggregates e serviços de domínio para modelar regras complexas.
-- **Arquitetura Hexagonal:** ports & adapters para desacoplar integrações externas.
-- **SOLID e Design Patterns:** aplicados para melhorar manutenção, testes e evolução do código.
-- **System Design:** decisões orientadas a escalabilidade, desempenho e consistência.
+<p align="center">
+  <strong>Construindo software além do código</strong><br/>
+  Domínio bem modelado, dependências controladas e sistemas preparados para evoluir.
+</p>
+
+### 🧱 Arquitetura de Software
+
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-0F766E?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/DDD-115E59?style=for-the-badge" alt="Domain-Driven Design" />
+  <img src="https://img.shields.io/badge/Hexagonal-134E4A?style=for-the-badge" alt="Arquitetura Hexagonal" />
+</p>
+
+Regras de negócio independentes de frameworks, com entidades, value objects, casos de uso, ports e adapters.
+
+### ⚙️ Engenharia de Software
+
+<p>
+  <img src="https://img.shields.io/badge/SOLID-1D4ED8?style=for-the-badge" alt="SOLID" />
+  <img src="https://img.shields.io/badge/Design_Patterns-1E40AF?style=for-the-badge" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/Testabilidade-1E3A8A?style=for-the-badge" alt="Testabilidade" />
+</p>
+
+Código coeso, baixo acoplamento, responsabilidades claras e decisões que favorecem manutenção e testes.
+
+### 📐 Design de Sistemas
+
+<p>
+  <img src="https://img.shields.io/badge/System_Design-7C3AED?style=for-the-badge" alt="System Design" />
+  <img src="https://img.shields.io/badge/Escalabilidade-6D28D9?style=for-the-badge" alt="Escalabilidade" />
+  <img src="https://img.shields.io/badge/Segurança-5B21B6?style=for-the-badge" alt="Segurança" />
+</p>
+
+Modelagem de APIs, persistência, autenticação e integrações com foco em desempenho, segurança e evolução sustentável.
 
 ---
 
