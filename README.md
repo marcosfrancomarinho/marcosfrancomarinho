@@ -27,7 +27,7 @@
 
 <p align="center">
   <strong>Backend & Frontend</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,react,vue,tailwind,vite,prisma" alt="Node.js, Express, Spring, React, Vue, Tailwind, Vite e Prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,react,vue,tailwind,vite,prisma" alt="Node.js, Express, NestJS, Spring, React, Vue, Tailwind, Vite e Prisma" />
 </p>
 
 <p align="center">
