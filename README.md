@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/marcosfrancomarinho"><img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187"><img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn" /></a>
-  <a href="mailto:marcosmarinho19998@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="E-mail" /></a>
+  <a href="https://github.com/marcosfrancomarinho"><img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/marcos-franco-marinho-031b55187"><img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:marcosmarinho19998@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="E-mail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_marcosmarinho98/"><img src="https://skillicons.dev/icons?i=instagram" width="36" alt="Instagram" /></a>
 </p>
 
