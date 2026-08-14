@@ -21,11 +21,22 @@
 ## 💻 Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,typescript,nodejs,nestjs,go,react,tailwind,mysql,postgres,sqlite,prisma,git,linux&perline=7" alt="Tecnologias" />
+  <strong>Linguagens</strong><br/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,go,python" alt="TypeScript, JavaScript, Java, Go e Python" />
 </p>
 
 <p align="center">
-  <strong>Foco:</strong> backend, arquitetura, APIs, modelagem de domínio e sistemas escaláveis.
+  <strong>Backend & Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,react,vue,tailwind,vite,prisma" alt="Node.js, Express, Spring, React, Vue, Tailwind, Vite e Prisma" />
+</p>
+
+<p align="center">
+  <strong>Dados & Infraestrutura</strong><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,linux" alt="PostgreSQL, MySQL, SQLite, Docker, Git e Linux" />
+</p>
+
+<p align="center">
+  <strong>Foco:</strong> APIs REST, backend, arquitetura de software, modelagem de domínio e aplicações full stack.
 </p>
 
 ---
