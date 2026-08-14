@@ -21,17 +21,17 @@
 ## 💻 Stack principal
 
 <p align="center">
-  <strong>Linguagens</strong><br/>
+  <strong>Linguagens</strong><br/><br/>
   <img src="https://skillicons.dev/icons?i=typescript,javascript,java,go,python" alt="TypeScript, JavaScript, Java, Go e Python" />
 </p>
 
 <p align="center">
-  <strong>Backend & Frontend</strong><br/>
+  <strong>Backend & Frontend</strong><br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,react,vue,tailwind,vite,prisma" alt="Node.js, Express, Spring, React, Vue, Tailwind, Vite e Prisma" />
 </p>
 
 <p align="center">
-  <strong>Dados & Infraestrutura</strong><br/>
+  <strong>Dados & Infraestrutura</strong><br/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,linux" alt="PostgreSQL, MySQL, SQLite, Docker, Git e Linux" />
 </p>
 
