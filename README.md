@@ -22,7 +22,7 @@
 
 <p align="center">
   <strong>Linguagens</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,go,python" alt="TypeScript, JavaScript, Java, Go e Python" />
+  <img src="https://skillicons.dev/icons?i=typescript,java,go,python" alt="TypeScript, Java, Go e Python" />
 </p>
 
 <p align="center">
