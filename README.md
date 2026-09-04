@@ -22,7 +22,7 @@
 
 <p align="center">
   <strong>Linguagens</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=typescript,java,go,python" alt="TypeScript, Java, Go e Python" />
+  <img src="https://skillicons.dev/icons?i=typescript,java,go" alt="TypeScript, Java e Go" />
 </p>
 
 <p align="center">
@@ -52,11 +52,6 @@ API REST em Java e Spring, estruturada com Clean Architecture, autenticação JW
 Conjunto de utilidades para acelerar a criação de projetos e reduzir código repetitivo no desenvolvimento.
 
 <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="26" alt="JavaScript" />
-
-### 🖥️ [Conversor Desktop](https://github.com/marcosfrancomarinho/conversor)
-Aplicação desktop em Python para conversão e manipulação de imagens e arquivos PDF.
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="26" alt="Python" />
 
 ### 🔗 [Encurtador de URL](https://github.com/marcosfrancomarinho/encutador-de-url)
 Serviço de encurtamento de URLs desenvolvido com Go e Vue, com foco em simplicidade, desempenho e separação de responsabilidades.
