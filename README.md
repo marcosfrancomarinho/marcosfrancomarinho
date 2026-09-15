@@ -43,6 +43,18 @@
 
 ## 🚀 Projetos em destaque
 
+### 📥 BaixaRI
+Aplicação full stack para localizar protocolos e certidões e disponibilizá-los em ZIP, PDF ou DOCX. O backend combina arquivos, extrai texto nativo e aplica OCR local; o frontend acompanha o processamento em tempo real por NDJSON.
+
+[Frontend](https://github.com/marcosfrancomarinho/baixari) · [Backend](https://github.com/marcosfrancomarinho/baixari-backend)
+
+<img src="https://skillicons.dev/icons?i=typescript,react,nodejs,express,tailwind&theme=dark" height="26" alt="TypeScript, React, Node.js, Express e Tailwind CSS" />
+
+### 📄 [Conversor PDF & Imagens](https://github.com/marcosfrancomarinho/conversor)
+Aplicação desktop em Python e Tkinter para converter imagens em PNG ou JPEG e combinar imagens e PDFs em um único documento, com controle da ordem dos arquivos.
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="26" alt="Python" />
+
 ### 🔐 [API de Autenticação e Pedidos](https://github.com/marcosfrancomarinho/authenticacao)
 API REST em Java e Spring, estruturada com Clean Architecture, autenticação JWT e separação clara entre domínio, aplicação e infraestrutura.
 
